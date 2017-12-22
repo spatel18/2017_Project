@@ -1,0 +1,15 @@
+Website
+	Component1 of website 
+		Group member 1
+		Group member 2
+	Rinse and repeat
+
+Documentation
+	Chapter of document 
+		Group member 1
+		Group member 2
+	Rinse and repeat
+
+Media
+	Group member 1
+	Group member 2
