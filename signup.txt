@@ -1,7 +1,10 @@
 Website
-	Component1 of website 
-		Group member 1
-		Group member 2
+	Planet Information
+		Group Member: Steve Kean
+		Group Member: Pablo Huerta
+	Component2
+		Group Member 1
+		Group Member 2
 	Rinse and repeat
 
 Documentation
