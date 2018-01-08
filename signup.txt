@@ -1,4 +1,8 @@
 Website
+	General Information
+		Group Member 1: Chris Dampier
+		Group Member 2: Sweta Patel
+
 	Planet Information
 		Group Member: Steve Kean
 		Group Member: Pablo Huerta
@@ -8,6 +12,7 @@ Website
 	Rinse and repeat
 
 Documentation
+<<<<<<< HEAD
 	Chapter of document 
 		Group member 1 Emmett Parker
 		Group member 2 Jacob Reszitnyk
@@ -15,6 +20,13 @@ Documentation
 		Group Member: Matthew Stewardson
 		Group Member: John Lennox
 	
+=======
+	Energy Creation 
+		Group member 1 darshit Bhutadiya
+		Group member 2 Dave crawford
+	Rinse and repeat
+
+>>>>>>> 34776caace37129bdffa964dae92d708e3b121f9
 Media
 	Group member 1: Josh Romito	
 	Group member 2: Juan Estrella
@@ -22,5 +34,3 @@ Media
 	Producing media for recruiting qualified members
 	Lily Hartley
 	Joseph Roy
-
-
