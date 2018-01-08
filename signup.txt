@@ -1,4 +1,8 @@
 Website
+	General Information
+		Group Member 1: Chris Dampier
+		Group Member 2: Sweta Patel
+
 	Planet Information
 		Group Member: Steve Kean
 		Group Member: Pablo Huerta
@@ -14,5 +18,9 @@ Documentation
 	Rinse and repeat
 
 Media
-	Chris Dampier
-	Sweta Patel
+	Group member 1: Josh Romito	
+	Group member 2: Juan Estrella
+
+	Producing media for recruiting qualified members
+	Lily Hartley
+	Joseph Roy
