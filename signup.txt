@@ -11,8 +11,10 @@ Documentation
 	Chapter of document 
 		Group member 1 Emmett Parker
 		Group member 2 Jacob Reszitnyk
-	Rinse and repeat
-
+	Food production
+		Group Member: Matthew Stewardson
+		Group Member: John Lennox
+	
 Media
 	Group member 1: Josh Romito	
 	Group member 2: Juan Estrella
