@@ -6,9 +6,9 @@ Website
 	Planet Information
 		Group Member: Steve Kean
 		Group Member: Pablo Huerta
-	Component2
-		Group Member 1
-		Group Member 2
+	Program Signup
+		Group Member: Justin Jacko
+		Group Member: Shawn Smith
 	Rinse and repeat
 
 Documentation
